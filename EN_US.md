@@ -5,6 +5,7 @@
     <p style="margin: 4px 0 0;">Senior Software Developer | Java | Kotlin | Spring Boot | Kafka | Microservices | AWS</p>
   </div>
 </div>
+
 ---
 
 ### About
@@ -46,7 +47,7 @@ Prior to specializing in backend development, I worked in industrial automation 
 **Email:** jeferson_fischer@outlook.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <a href="https://www.linkedin.com/in/jefersonfischer/" target="blank"><img align="center" src="./images/linked-in-alt.svg" height="30" width="40" /></a>
   &nbsp;
   <a href="https://github.com/JefersonFischer" target="blank"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/github-light.svg"/><img align="center" src="./images/github.svg" height="30" width="40" /></picture></a>
@@ -56,40 +57,52 @@ Prior to specializing in backend development, I worked in industrial automation 
 
 <h2 align="center">Technologies and Tools</h2>
 <h3>Languages</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="./images/java.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./images/javascript.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./images/typescript.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 <h3>Frameworks</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="./images/spring.svg" alt="spring" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
   <a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank" rel="noreferrer"> <img src="./images/react.svg" alt="react" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <picture><source media="(prefers-color-scheme: dark)" srcset="./images/nodejs-light.svg"/><img src="./images/nodejs.svg" alt="node" width="40" height="40"/></picture> </a>
 </p>
 
 <h3>Technologies and Specifications</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="./images/css.svg" alt="css" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="./images/graphql.svg" alt="graphql" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./images/html5.svg" alt="html5" width="40" height="40"/> </a>
 </p>
 
 <h3>Tools</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <picture><source media="(prefers-color-scheme: dark)" srcset="./images/docker-light.svg"/><img src="./images/docker.svg" alt="docker" width="40" height="40"/></picture> </a>
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./images/git-scm.svg" alt="git-scm" width="40" height="40"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="./images/kafka.svg" alt="kafka" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <picture><source media="(prefers-color-scheme: dark)" srcset="./images/kafka-light.svg"/><img src="./images/kafka.svg" alt="kafka" width="40" height="40"/></picture> </a>
+  &nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="./images/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
   <a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="./images/postman.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <h3>Databases</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./images/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./images/mysql.svg" alt="mysql" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="./images/postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="./images/redis.svg" alt="redis" width="40" height="40"/> </a>
+  &nbsp;&nbsp;
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <picture><source media="(prefers-color-scheme: dark)" srcset="./images/sqlite-light.svg"/><img src="./images/sqlite.svg" alt="sqlite" width="40" height="40"/></picture> </a>
 </p>
